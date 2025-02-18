@@ -7,7 +7,7 @@ per posizione nei reads in input. Precisamente, riportare, per ciascun k-mer con
 Selezionare poi il k-mer K che appare più volte in una posizione e visualizzare un diagramma dell’andamento del numero di occorrenze di K rispetto alle posizioni dei reads.
 Produrre poi un file FASTA con i reads che contengono K esattamente nella posizione dove K occorre più volte, riportando nell’header FASTA la qualità media delle basi del read, oltre al suo identificatore.
 
-Nell'implementazione del progetto è stato scelto di non produrre un report solamente testuale del uso dei k-meri per posizione ma di fornire una lista dei k-meri e la possibilita 
+Nell'implementazione del progetto è stato scelto di non produrre un report solamente testuale del uso dei k-meri per posizione ma di fornire una lista dei k-meri e la possibilita di
 scegliere se visualizzare o meno il grafico a barre delle sue occorrenze per ciascuna posizione.
 
 
