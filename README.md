@@ -9,5 +9,5 @@ Produrre poi un file FASTA con i reads che contengono K esattamente nella posizi
 
 Nell'implementazione del progetto è stato scelto di non produrre un report solamente testuale del uso dei k-meri per posizione ma di fornire una lista dei k-meri e la possibilita di
 scegliere se visualizzare o meno il grafico a barre delle sue occorrenze per ciascuna posizione.
-
+ttttt prova
 
